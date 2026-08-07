@@ -47,5 +47,4 @@ Helps marketing teams optimize budget allocation
 Identifies high-ROI channels and campaigns
 Enables quick, interactive performance analysis for stakeholders
 
-Yashita Nirvani
-yashitanirvani@gmail.com
+By: Anvita Khanduja (anvitakhanduja@gmail.com)
