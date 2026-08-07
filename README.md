@@ -1,4 +1,3 @@
-<img width="1282" height="725" alt="Dashboard 1" src="https://github.com/user-attachments/assets/97b19fce-1f1e-4dac-88d1-ae8a9374ba42" />
 # Marketing-Campaign-Performance-Analysis
 Project Overview
 This project analyzes the performance of multi-channel marketing campaigns using SQL and Power BI.
