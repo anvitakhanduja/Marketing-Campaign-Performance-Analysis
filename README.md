@@ -10,7 +10,7 @@ Power BI – Data modeling, DAX, and interactive dashboard development
 Power Query – Data transformation and preprocessing
 SQL – Aggregations, KPI calculations, and analytical queries
 
-Dataset
+Dataset:-
 Source: Kaggle – Marketing Campaign Performance Dataset
 Records: 200,000+ campaign records
 Time Period: 1 year
@@ -21,28 +21,33 @@ Impressions, Clicks, Conversion Rate
 Acquisition Cost, ROI
 Location, Customer Segment, Date
 Dashboard Features
+
 🔹 KPI Cards
 Total Impressions
 Total Clicks
 Average Conversion Rate
 Average ROI
+
 🔹 Visual Analysis
 Impressions by Month – Trend analysis over time
 Clicks vs Conversion Rate (Scatter Plot) – Identifies efficient campaigns
 Clicks & Conversion Rate by Channel (Combo Chart)
 Cost, Conversions & Impressions by Channel (Donut Charts)
+
 🔹 Interactivity
 Date range slicer
 Filters by:
 Location
 Channel Used
 Campaign Type
-Key Insights
+
+Key Insights:
 Certain channels generate high click volume but lower conversion rates, indicating optimization opportunities
 Seasonal trends impact impression volume across months
 Scatter analysis highlights high-impact campaigns combining strong engagement and conversion efficiency
 Channel-level cost and ROI distribution helps prioritize marketing spend
-Business Value
+
+Business Value:
 Helps marketing teams optimize budget allocation
 Identifies high-ROI channels and campaigns
 Enables quick, interactive performance analysis for stakeholders
